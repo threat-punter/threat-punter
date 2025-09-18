@@ -4,6 +4,6 @@ Your data is one of your most valuable assets — the better you protect it from
 
 You can find some of my contributions to the information security community [here](https://github.com/threat-punter/community-contributions).
 
-I've publised extensive research and examples for implementing Detection-as-Code. I'm the creator and maintainer of [Dorothy](https://github.com/threat-punter/dorothy) — a tool to help security teams test their monitoring and detection capabilities for their Okta environment. I presented Dorothy at Black Hat USA.
+I've publised extensive research and examples for implementing Detection-as-Code. I'm the creator of [Dorothy](https://github.com/threat-punter/dorothy) — a tool to help security teams test their monitoring and detection capabilities for their Okta environment. I presented Dorothy at Black Hat USA.
 
-I'm on [Twitter](https://twitter.com/threatpunter) and [Medium](https://medium.com/threatpunter)
+I'm on [LinkedIn]([https://twitter.com/threatpunter](https://www.linkedin.com/in/davidfrench001/)) and [Medium](https://medium.com/threatpunter)
