@@ -6,4 +6,4 @@ You can find some of my contributions to the information security community [her
 
 I've publised extensive research and examples for implementing Detection-as-Code. I'm the creator of [Dorothy](https://github.com/threat-punter/dorothy) — a tool to help security teams test their monitoring and detection capabilities for their Okta environment. I presented Dorothy at Black Hat USA.
 
-I'm on [LinkedIn]([https://twitter.com/threatpunter](https://www.linkedin.com/in/davidfrench001/)) and [Medium](https://medium.com/threatpunter)
+I'm on [LinkedIn](https://twitter.com/threatpunter](https://www.linkedin.com/in/davidfrench001/) and [Medium](https://medium.com/threatpunter)
